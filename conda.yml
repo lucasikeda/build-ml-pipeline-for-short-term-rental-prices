@@ -9,4 +9,6 @@ dependencies:
   - pip=20.3.3
   - numpy=1.23.0
   - wandb=0.13.11
+  - pip:
+    - hydra-joblib-launcher==1.1.2
       
